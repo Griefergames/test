@@ -1,5 +1,5 @@
 public static void main(String [] args) throws IOException {
-    String address = "164.132.233.151";
+    String address = "IP ADRESSE";
     int port = 25565;
 
     InetSocketAddress host = new InetSocketAddress(address, port);
